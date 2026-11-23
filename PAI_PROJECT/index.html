@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WorldPulse: Countries ETL + EDA</title>
+<style>
+  :root { --bg:#f7f8fa; --card:#ffffff; --text:#1f2933; --muted:#616e7c; --accent:#4c72b0; --border:#e4e7eb; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#12161c; --card:#1b212a; --text:#e6e9ee; --muted:#9aa5b1; --accent:#7aa2e3; --border:#2b3440; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
+  header { padding:48px 20px 32px; text-align:center; }
+  header h1 { margin:0 0 8px; font-size:2.2rem; }
+  header p { margin:0 auto; max-width:640px; color:var(--muted); }
+  main { max-width:960px; margin:0 auto; padding:0 20px 48px; }
+  h2 { margin:40px 0 12px; font-size:1.4rem; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; }
+  .stat { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; text-align:center; }
+  .stat b { display:block; font-size:1.6rem; color:var(--accent); }
+  .stat span { color:var(--muted); font-size:.9rem; }
+  .steps { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; }
+  .step { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; }
+  .step h3 { margin:0 0 6px; font-size:1rem; color:var(--accent); }
+  .step p { margin:0; color:var(--muted); font-size:.92rem; }
+  .charts { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:16px; }
+  figure { margin:0; background:var(--card); border:1px solid var(--border); border-radius:12px; padding:12px; }
+  figure img { width:100%; height:auto; border-radius:8px; background:#fff; }
+  figcaption { margin-top:8px; color:var(--muted); font-size:.9rem; text-align:center; }
+  .scroll { overflow-x:auto; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+  th, td { padding:10px 14px; text-align:left; border-bottom:1px solid var(--border); white-space:nowrap; }
+  th { background:var(--bg); color:var(--muted); font-weight:600; font-size:.85rem; text-transform:uppercase; letter-spacing:.03em; }
+  td.num { text-align:right; font-variant-numeric:tabular-nums; }
+  th.num { text-align:right; }
+  footer { text-align:center; padding:24px 20px 40px; color:var(--muted); font-size:.9rem; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>🌍 WorldPulse</h1>
+  <p>A Python ETL + EDA pipeline that fetches data on world countries, cleans and validates it, stores it in SQLite, and explores population and density patterns.</p>
+</header>
+
+<main>
+  <section>
+    <div class="stats">
+      <div class="stat"><b>248</b><span>valid countries</span></div>
+      <div class="stat"><b>6</b><span>regions</span></div>
+      <div class="stat"><b>India</b><span>largest population</span></div>
+      <div class="stat"><b>Macau</b><span>most crowded</span></div>
+    </div>
+  </section>
+
+  <h2>How it works</h2>
+  <section class="steps">
+    <div class="step"><h3>1. Extract</h3><p>Downloads country data from the REST Countries API, 100 records per request.</p></div>
+    <div class="step"><h3>2. Transform</h3><p>Cleans with pandas, adds a density column, validates every record with Pydantic.</p></div>
+    <div class="step"><h3>3. Load</h3><p>Saves the clean data into a SQLite database.</p></div>
+    <div class="step"><h3>4. Analyze</h3><p>SQL queries, IQR outlier detection and 6 charts.</p></div>
+  </section>
+
+  <h2>Charts</h2>
+  <section class="charts">
+    <figure><img src="outputs/1_top10_population.png" alt="Top 10 countries by population"><figcaption>Top 10 countries by population</figcaption></figure>
+    <figure><img src="outputs/2_region_population.png" alt="Total population by region"><figcaption>Total population by region</figcaption></figure>
+    <figure><img src="outputs/3_region_density.png" alt="Average density by region"><figcaption>Average density by region</figcaption></figure>
+    <figure><img src="outputs/4_crowded_countries.png" alt="Most and least crowded countries"><figcaption>Most and least crowded countries</figcaption></figure>
+    <figure><img src="outputs/5_histogram_population.png" alt="Population distribution"><figcaption>Population distribution (log scale)</figcaption></figure>
+    <figure><img src="outputs/6_boxplots.png" alt="Box plots of population and area"><figcaption>Box plots of population and area (log scale)</figcaption></figure>
+  </section>
+
+  <h2>Region comparison</h2>
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Region</th><th class="num">Countries</th><th class="num">Total population</th><th class="num">Avg density (per km²)</th></tr></thead>
+      <tbody>
+        <tr><td>Asia</td><td class="num">50</td><td class="num">4,748,072,598</td><td class="num">1,035.2</td></tr>
+        <tr><td>Africa</td><td class="num">59</td><td class="num">1,484,898,012</td><td class="num">119.5</td></tr>
+        <tr><td>Americas</td><td class="num">56</td><td class="num">1,047,086,413</td><td class="num">206.1</td></tr>
+        <tr><td>Europe</td><td class="num">53</td><td class="num">738,104,359</td><td class="num">696.2</td></tr>
+        <tr><td>Oceania</td><td class="num">27</td><td class="num">48,148,773</td><td class="num">106.9</td></tr>
+        <tr><td>Antarctic</td><td class="num">3</td><td class="num">1,732</td><td class="num">0.0</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Top 10 by population</h2>
+  <div class="scroll">
+    <table>
+      <thead><tr><th>#</th><th>Country</th><th class="num">Population</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>India</td><td class="num">1,429,404,000</td></tr>
+        <tr><td>2</td><td>China</td><td class="num">1,404,890,000</td></tr>
+        <tr><td>3</td><td>United States</td><td class="num">341,784,857</td></tr>
+        <tr><td>4</td><td>Indonesia</td><td class="num">288,315,089</td></tr>
+        <tr><td>5</td><td>Pakistan</td><td class="num">241,499,431</td></tr>
+        <tr><td>6</td><td>Nigeria</td><td class="num">223,800,000</td></tr>
+        <tr><td>7</td><td>Brazil</td><td class="num">214,211,951</td></tr>
+        <tr><td>8</td><td>Bangladesh</td><td class="num">169,828,911</td></tr>
+        <tr><td>9</td><td>Russia</td><td class="num">146,028,325</td></tr>
+        <tr><td>10</td><td>Mexico</td><td class="num">131,231,919</td></tr>
+      </tbody>
+    </table>
+  </div>
+</main>
+
+<footer>
+  Built with Python, pandas, Pydantic, SQLite and matplotlib · Data from <a href="https://restcountries.com">REST Countries API</a>
+</footer>
+</body>
+</html>
