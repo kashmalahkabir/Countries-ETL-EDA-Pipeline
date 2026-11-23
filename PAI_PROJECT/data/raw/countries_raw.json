@@ -1,0 +1,8633 @@
+[
+  {
+    "names": {
+      "common": "Abkhazia"
+    },
+    "codes": {
+      "alpha_3": ""
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 43.0033,
+          "lng": 41.0153
+        },
+        "name": "Sukhumi"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 8665
+    },
+    "population": 244236,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Afghanistan"
+    },
+    "codes": {
+      "alpha_3": "AFG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 34.52,
+          "lng": 69.18
+        },
+        "name": "Kabul"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 652230
+    },
+    "population": 43844000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Albania"
+    },
+    "codes": {
+      "alpha_3": "ALB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 41.32,
+          "lng": 19.82
+        },
+        "name": "Tirana"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 28748
+    },
+    "population": 2335930,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Algeria"
+    },
+    "codes": {
+      "alpha_3": "DZA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 36.75,
+          "lng": 3.05
+        },
+        "name": "Algiers"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 2381741
+    },
+    "population": 47400000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "American Samoa"
+    },
+    "codes": {
+      "alpha_3": "ASM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -14.27,
+          "lng": -170.7
+        },
+        "name": "Pago Pago"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 199
+    },
+    "population": 43268,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Andorra"
+    },
+    "codes": {
+      "alpha_3": "AND"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42.5,
+          "lng": 1.52
+        },
+        "name": "Andorra la Vella"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 468
+    },
+    "population": 90105,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791047792
+    }
+  },
+  {
+    "names": {
+      "common": "Angola"
+    },
+    "codes": {
+      "alpha_3": "AGO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -8.83,
+          "lng": 13.22
+        },
+        "name": "Luanda"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 1246700
+    },
+    "population": 38778554,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789184203
+    }
+  },
+  {
+    "names": {
+      "common": "Anguilla"
+    },
+    "codes": {
+      "alpha_3": "AIA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.22,
+          "lng": -63.05
+        },
+        "name": "The Valley"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 91
+    },
+    "population": 16010,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Antarctica"
+    },
+    "codes": {
+      "alpha_3": "ATA"
+    },
+    "capitals": [],
+    "region": "Antarctic",
+    "subregion": "",
+    "area": {
+      "kilometers": 14000000
+    },
+    "population": 1300,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Antigua and Barbuda"
+    },
+    "codes": {
+      "alpha_3": "ATG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 17.12,
+          "lng": -61.85
+        },
+        "name": "Saint John's"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 442
+    },
+    "population": 106365,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Argentina"
+    },
+    "codes": {
+      "alpha_3": "ARG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -34.58,
+          "lng": -58.67
+        },
+        "name": "Buenos Aires"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 2780400
+    },
+    "population": 46466688,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Armenia"
+    },
+    "codes": {
+      "alpha_3": "ARM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 40.17,
+          "lng": 44.5
+        },
+        "name": "Yerevan"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 29743
+    },
+    "population": 3103900,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789835642
+    }
+  },
+  {
+    "names": {
+      "common": "Aruba"
+    },
+    "codes": {
+      "alpha_3": "ABW"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.52,
+          "lng": -70.03
+        },
+        "name": "Oranjestad"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 180
+    },
+    "population": 110625,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Australia"
+    },
+    "codes": {
+      "alpha_3": "AUS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -35.27,
+          "lng": 149.13
+        },
+        "name": "Canberra"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "area": {
+      "kilometers": 7692024
+    },
+    "population": 27921150,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789747895
+    }
+  },
+  {
+    "names": {
+      "common": "Austria"
+    },
+    "codes": {
+      "alpha_3": "AUT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 48.2,
+          "lng": 16.37
+        },
+        "name": "Vienna"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": {
+      "kilometers": 83871
+    },
+    "population": 9217573,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Azerbaijan"
+    },
+    "codes": {
+      "alpha_3": "AZE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 40.38,
+          "lng": 49.87
+        },
+        "name": "Baku"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 86600
+    },
+    "population": 10273450,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Bahamas"
+    },
+    "codes": {
+      "alpha_3": "BHS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 25.08,
+          "lng": -77.35
+        },
+        "name": "Nassau"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 13943
+    },
+    "population": 398165,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Bahrain"
+    },
+    "codes": {
+      "alpha_3": "BHR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 26.23,
+          "lng": 50.57
+        },
+        "name": "Manama"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 765
+    },
+    "population": 1603260,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792405256
+    }
+  },
+  {
+    "names": {
+      "common": "Bangladesh"
+    },
+    "codes": {
+      "alpha_3": "BGD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 23.72,
+          "lng": 90.4
+        },
+        "name": "Dhaka"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 147570
+    },
+    "population": 169828911,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Barbados"
+    },
+    "codes": {
+      "alpha_3": "BRB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.1,
+          "lng": -59.62
+        },
+        "name": "Bridgetown"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 430
+    },
+    "population": 261692,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Belarus"
+    },
+    "codes": {
+      "alpha_3": "BLR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 53.9,
+          "lng": 27.57
+        },
+        "name": "Minsk"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "area": {
+      "kilometers": 207600
+    },
+    "population": 9056080,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Belgium"
+    },
+    "codes": {
+      "alpha_3": "BEL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 50.83,
+          "lng": 4.33
+        },
+        "name": "Brussels"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 30528
+    },
+    "population": 11942772,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Belize"
+    },
+    "codes": {
+      "alpha_3": "BLZ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 17.25,
+          "lng": -88.77
+        },
+        "name": "Belmopan"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 22966
+    },
+    "population": 418982,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Benin"
+    },
+    "codes": {
+      "alpha_3": "BEN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.48,
+          "lng": 2.62
+        },
+        "name": "Porto-Novo"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 112622
+    },
+    "population": 13551992,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557516
+    }
+  },
+  {
+    "names": {
+      "common": "Bermuda"
+    },
+    "codes": {
+      "alpha_3": "BMU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 32.28,
+          "lng": -64.78
+        },
+        "name": "Hamilton"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 54
+    },
+    "population": 64055,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790370196
+    }
+  },
+  {
+    "names": {
+      "common": "Bhutan"
+    },
+    "codes": {
+      "alpha_3": "BTN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 27.47,
+          "lng": 89.63
+        },
+        "name": "Thimphu"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 38394
+    },
+    "population": 790718,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791374497
+    }
+  },
+  {
+    "names": {
+      "common": "Bolivia"
+    },
+    "codes": {
+      "alpha_3": "BOL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": true,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -19.04,
+          "lng": -65.26
+        },
+        "name": "Sucre"
+      },
+      {
+        "attributes": {
+          "administrative": true,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -16.5,
+          "lng": -68.15
+        },
+        "name": "La Paz"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 1098581
+    },
+    "population": 11365333,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Bosnia and Herzegovina"
+    },
+    "codes": {
+      "alpha_3": "BIH"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 43.87,
+          "lng": 18.42
+        },
+        "name": "Sarajevo"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 51209
+    },
+    "population": 3412000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Botswana"
+    },
+    "codes": {
+      "alpha_3": "BWA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -24.63,
+          "lng": 25.9
+        },
+        "name": "Gaborone"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": {
+      "kilometers": 582000
+    },
+    "population": 2515633,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791021617
+    }
+  },
+  {
+    "names": {
+      "common": "Bouvet Island"
+    },
+    "codes": {
+      "alpha_3": "BVT"
+    },
+    "capitals": [],
+    "region": "Antarctic",
+    "subregion": "",
+    "area": {
+      "kilometers": 49
+    },
+    "population": 0,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Brazil"
+    },
+    "codes": {
+      "alpha_3": "BRA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -15.79,
+          "lng": -47.88
+        },
+        "name": "Brasília"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 8515767
+    },
+    "population": 214211951,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "British Indian Ocean Territory"
+    },
+    "codes": {
+      "alpha_3": "IOT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -7.3133,
+          "lng": 72.4111
+        },
+        "name": "Diego Garcia"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 60
+    },
+    "population": 2000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "British Virgin Islands"
+    },
+    "codes": {
+      "alpha_3": "VGB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.42,
+          "lng": -64.62
+        },
+        "name": "Road Town"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 151
+    },
+    "population": 38984,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791200068
+    }
+  },
+  {
+    "names": {
+      "common": "Brunei"
+    },
+    "codes": {
+      "alpha_3": "BRN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 4.88,
+          "lng": 114.93
+        },
+        "name": "Bandar Seri Begawan"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 5765
+    },
+    "population": 458600,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Bulgaria"
+    },
+    "codes": {
+      "alpha_3": "BGR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42.68,
+          "lng": 23.32
+        },
+        "name": "Sofia"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 110879
+    },
+    "population": 6423207,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Burkina Faso"
+    },
+    "codes": {
+      "alpha_3": "BFA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.37,
+          "lng": -1.52
+        },
+        "name": "Ouagadougou"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 272967
+    },
+    "population": 22489126,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Burundi"
+    },
+    "codes": {
+      "alpha_3": "BDI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -3.43,
+          "lng": 29.93
+        },
+        "name": "Gitega"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 27834
+    },
+    "population": 12332788,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789241057
+    }
+  },
+  {
+    "names": {
+      "common": "Cabo Verde"
+    },
+    "codes": {
+      "alpha_3": "CPV"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 14.92,
+          "lng": -23.52
+        },
+        "name": "Praia"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 4033
+    },
+    "population": 491233,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790025379
+    }
+  },
+  {
+    "names": {
+      "common": "Cambodia"
+    },
+    "codes": {
+      "alpha_3": "KHM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 11.55,
+          "lng": 104.92
+        },
+        "name": "Phnom Penh"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 181035
+    },
+    "population": 17816143,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Cameroon"
+    },
+    "codes": {
+      "alpha_3": "CMR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 3.85,
+          "lng": 11.5
+        },
+        "name": "Yaoundé"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 475442
+    },
+    "population": 29442327,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Canada"
+    },
+    "codes": {
+      "alpha_3": "CAN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 45.42,
+          "lng": -75.7
+        },
+        "name": "Ottawa"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 9984670
+    },
+    "population": 41798407,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790182685
+    }
+  },
+  {
+    "names": {
+      "common": "Caribbean Netherlands"
+    },
+    "codes": {
+      "alpha_3": "BES"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.14,
+          "lng": -68.27
+        },
+        "name": "Kralendijk"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 328
+    },
+    "population": 31980,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Cayman Islands"
+    },
+    "codes": {
+      "alpha_3": "CYM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 19.3,
+          "lng": -81.38
+        },
+        "name": "George Town"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 264
+    },
+    "population": 90577,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Central African Republic"
+    },
+    "codes": {
+      "alpha_3": "CAF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 4.37,
+          "lng": 18.58
+        },
+        "name": "Bangui"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 622984
+    },
+    "population": 5513282,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Chad"
+    },
+    "codes": {
+      "alpha_3": "TCD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.1,
+          "lng": 15.03
+        },
+        "name": "N'Djamena"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 1284000
+    },
+    "population": 20031602,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Chile"
+    },
+    "codes": {
+      "alpha_3": "CHL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -33.45,
+          "lng": -70.67
+        },
+        "name": "Santiago"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 756102
+    },
+    "population": 20150948,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "China"
+    },
+    "codes": {
+      "alpha_3": "CHN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 39.92,
+          "lng": 116.38
+        },
+        "name": "Beijing"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 9706961
+    },
+    "population": 1404890000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791895039
+    }
+  },
+  {
+    "names": {
+      "common": "Christmas Island"
+    },
+    "codes": {
+      "alpha_3": "CXR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -10.42,
+          "lng": 105.68
+        },
+        "name": "Flying Fish Cove"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "area": {
+      "kilometers": 135
+    },
+    "population": 1692,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790415775
+    }
+  },
+  {
+    "names": {
+      "common": "Cocos (Keeling) Islands"
+    },
+    "codes": {
+      "alpha_3": "CCK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -12.17,
+          "lng": 96.83
+        },
+        "name": "West Island"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "area": {
+      "kilometers": 14
+    },
+    "population": 593,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Colombia"
+    },
+    "codes": {
+      "alpha_3": "COL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 4.71,
+          "lng": -74.07
+        },
+        "name": "Bogotá"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 1141748
+    },
+    "population": 53399171,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Comoros"
+    },
+    "codes": {
+      "alpha_3": "COM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -11.7,
+          "lng": 43.23
+        },
+        "name": "Moroni"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 1862
+    },
+    "population": 944388,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Congo"
+    },
+    "codes": {
+      "alpha_3": "COG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -4.25,
+          "lng": 15.28
+        },
+        "name": "Brazzaville"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 342000
+    },
+    "population": 6332961,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Cook Islands"
+    },
+    "codes": {
+      "alpha_3": "COK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -21.2,
+          "lng": -159.77
+        },
+        "name": "Avarua"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 236
+    },
+    "population": 15040,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Costa Rica"
+    },
+    "codes": {
+      "alpha_3": "CRI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 9.93,
+          "lng": -84.09
+        },
+        "name": "San José"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 51100
+    },
+    "population": 5160700,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Croatia"
+    },
+    "codes": {
+      "alpha_3": "HRV"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 45.815,
+          "lng": 15.9819
+        },
+        "name": "Zagreb"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 56594
+    },
+    "population": 3874993,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790417338
+    }
+  },
+  {
+    "names": {
+      "common": "Cuba"
+    },
+    "codes": {
+      "alpha_3": "CUB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 23.12,
+          "lng": -82.35
+        },
+        "name": "Havana"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 109884
+    },
+    "population": 9434593,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Curaçao"
+    },
+    "codes": {
+      "alpha_3": "CUW"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.1,
+          "lng": -68.92
+        },
+        "name": "Willemstad"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 444
+    },
+    "population": 155826,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Cyprus"
+    },
+    "codes": {
+      "alpha_3": "CYP"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 35.17,
+          "lng": 33.37
+        },
+        "name": "Nicosia"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 9251
+    },
+    "population": 983000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Czechia"
+    },
+    "codes": {
+      "alpha_3": "CZE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 50.08,
+          "lng": 14.47
+        },
+        "name": "Prague"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": {
+      "kilometers": 78865
+    },
+    "population": 10903655,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789247316
+    }
+  },
+  {
+    "names": {
+      "common": "DRC"
+    },
+    "codes": {
+      "alpha_3": "COD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -4.32,
+          "lng": 15.3
+        },
+        "name": "Kinshasa"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 2344858
+    },
+    "population": 116452000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Denmark"
+    },
+    "codes": {
+      "alpha_3": "DNK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 55.67,
+          "lng": 12.58
+        },
+        "name": "Copenhagen"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 43094
+    },
+    "population": 6038638,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792154695
+    }
+  },
+  {
+    "names": {
+      "common": "Djibouti"
+    },
+    "codes": {
+      "alpha_3": "DJI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 11.58,
+          "lng": 43.15
+        },
+        "name": "Djibouti"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 23200
+    },
+    "population": 1066809,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Dominica"
+    },
+    "codes": {
+      "alpha_3": "DMA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 15.301,
+          "lng": -61.3881
+        },
+        "name": "Roseau"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 751
+    },
+    "population": 65431,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792404977
+    }
+  },
+  {
+    "names": {
+      "common": "Dominican Republic"
+    },
+    "codes": {
+      "alpha_3": "DOM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.47,
+          "lng": -69.9
+        },
+        "name": "Santo Domingo"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 48671
+    },
+    "population": 11532151,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Ecuador"
+    },
+    "codes": {
+      "alpha_3": "ECU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -0.22,
+          "lng": -78.5
+        },
+        "name": "Quito"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 276841
+    },
+    "population": 18135478,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Egypt"
+    },
+    "codes": {
+      "alpha_3": "EGY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 30.05,
+          "lng": 31.25
+        },
+        "name": "Cairo"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 1002450
+    },
+    "population": 108613296,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "El Salvador"
+    },
+    "codes": {
+      "alpha_3": "SLV"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.6929,
+          "lng": -89.2182
+        },
+        "name": "San Salvador"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 21041
+    },
+    "population": 6029976,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Equatorial Guinea"
+    },
+    "codes": {
+      "alpha_3": "GNQ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 3.75,
+          "lng": 8.78
+        },
+        "name": "Malabo"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 28051
+    },
+    "population": 1795834,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Eritrea"
+    },
+    "codes": {
+      "alpha_3": "ERI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 15.33,
+          "lng": 38.93
+        },
+        "name": "Asmara"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 117600
+    },
+    "population": 3682669,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Estonia"
+    },
+    "codes": {
+      "alpha_3": "EST"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 59.43,
+          "lng": 24.72
+        },
+        "name": "Tallinn"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 45227
+    },
+    "population": 1360745,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792354598
+    }
+  },
+  {
+    "names": {
+      "common": "Eswatini"
+    },
+    "codes": {
+      "alpha_3": "SWZ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": true,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -26.31,
+          "lng": 31.13
+        },
+        "name": "Mbabane"
+      },
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": true,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -26.47,
+          "lng": 31.2
+        },
+        "name": "Lobamba"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": {
+      "kilometers": 17364
+    },
+    "population": 1235549,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Ethiopia"
+    },
+    "codes": {
+      "alpha_3": "ETH"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 9.03,
+          "lng": 38.7
+        },
+        "name": "Addis Ababa"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 1104300
+    },
+    "population": 111652998,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557517
+    }
+  },
+  {
+    "names": {
+      "common": "Falkland Islands"
+    },
+    "codes": {
+      "alpha_3": "FLK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -51.7,
+          "lng": -57.85
+        },
+        "name": "Stanley"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 12173
+    },
+    "population": 3662,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Faroe Islands"
+    },
+    "codes": {
+      "alpha_3": "FRO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 62.01,
+          "lng": -6.77
+        },
+        "name": "Tórshavn"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 1393
+    },
+    "population": 56210,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790394972
+    }
+  },
+  {
+    "names": {
+      "common": "Fiji"
+    },
+    "codes": {
+      "alpha_3": "FJI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -18.13,
+          "lng": 178.42
+        },
+        "name": "Suva"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": {
+      "kilometers": 18272
+    },
+    "population": 902623,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Finland"
+    },
+    "codes": {
+      "alpha_3": "FIN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 60.17,
+          "lng": 24.93
+        },
+        "name": "Helsinki"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 338424
+    },
+    "population": 5659324,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790417314
+    }
+  },
+  {
+    "names": {
+      "common": "France"
+    },
+    "codes": {
+      "alpha_3": "FRA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 48.87,
+          "lng": 2.33
+        },
+        "name": "Paris"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 551695
+    },
+    "population": 69081996,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "French Guiana"
+    },
+    "codes": {
+      "alpha_3": "GUF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 4.94,
+          "lng": -52.33
+        },
+        "name": "Cayenne"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 83534
+    },
+    "population": 254541,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791047932
+    }
+  },
+  {
+    "names": {
+      "common": "French Polynesia"
+    },
+    "codes": {
+      "alpha_3": "PYF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -17.53,
+          "lng": -149.56
+        },
+        "name": "Papeetē"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 4167
+    },
+    "population": 278786,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "French Southern and Antarctic Lands"
+    },
+    "codes": {
+      "alpha_3": "ATF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -49.35,
+          "lng": 70.2167
+        },
+        "name": "Port-aux-Français"
+      }
+    ],
+    "region": "Antarctic",
+    "subregion": "",
+    "area": {
+      "kilometers": 7747
+    },
+    "population": 400,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Gabon"
+    },
+    "codes": {
+      "alpha_3": "GAB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 0.38,
+          "lng": 9.45
+        },
+        "name": "Libreville"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 267668
+    },
+    "population": 2469296,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Gambia"
+    },
+    "codes": {
+      "alpha_3": "GMB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.45,
+          "lng": -16.57
+        },
+        "name": "Banjul"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 10689
+    },
+    "population": 2422712,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Georgia"
+    },
+    "codes": {
+      "alpha_3": "GEO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 41.68,
+          "lng": 44.83
+        },
+        "name": "Tbilisi"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 69700
+    },
+    "population": 3657000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Germany"
+    },
+    "codes": {
+      "alpha_3": "DEU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 52.52,
+          "lng": 13.4
+        },
+        "name": "Berlin"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 357114
+    },
+    "population": 83298787,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790233840
+    }
+  },
+  {
+    "names": {
+      "common": "Ghana"
+    },
+    "codes": {
+      "alpha_3": "GHA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 5.55,
+          "lng": -0.22
+        },
+        "name": "Accra"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 238533
+    },
+    "population": 34378768,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Gibraltar"
+    },
+    "codes": {
+      "alpha_3": "GIB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 36.13,
+          "lng": -5.35
+        },
+        "name": "Gibraltar"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 6
+    },
+    "population": 38196,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791073765
+    }
+  },
+  {
+    "names": {
+      "common": "Greece"
+    },
+    "codes": {
+      "alpha_3": "GRC"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 37.98,
+          "lng": 23.73
+        },
+        "name": "Athens"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 131990
+    },
+    "population": 10372335,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790063323
+    }
+  },
+  {
+    "names": {
+      "common": "Greenland"
+    },
+    "codes": {
+      "alpha_3": "GRL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 64.18,
+          "lng": -51.75
+        },
+        "name": "Nuuk"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 2166086
+    },
+    "population": 56945,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Grenada"
+    },
+    "codes": {
+      "alpha_3": "GRD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.0529,
+          "lng": -61.7523
+        },
+        "name": "St. George's"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 344
+    },
+    "population": 109021,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792354394
+    }
+  },
+  {
+    "names": {
+      "common": "Guadeloupe"
+    },
+    "codes": {
+      "alpha_3": "GLP"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 16.03,
+          "lng": -61.73
+        },
+        "name": "Basse-Terre"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 1628
+    },
+    "population": 400132,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Guam"
+    },
+    "codes": {
+      "alpha_3": "GUM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.48,
+          "lng": 144.75
+        },
+        "name": "Hagåtña"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 549
+    },
+    "population": 153836,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Guatemala"
+    },
+    "codes": {
+      "alpha_3": "GTM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 14.62,
+          "lng": -90.52
+        },
+        "name": "Guatemala City"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 108889
+    },
+    "population": 18406359,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789141655
+    }
+  },
+  {
+    "names": {
+      "common": "Guernsey"
+    },
+    "codes": {
+      "alpha_3": "GGY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 49.45,
+          "lng": -2.54
+        },
+        "name": "St. Peter Port"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 78
+    },
+    "population": 64781,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789393059
+    }
+  },
+  {
+    "names": {
+      "common": "Guinea"
+    },
+    "codes": {
+      "alpha_3": "GIN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 9.6412,
+          "lng": -13.5784
+        },
+        "name": "Conakry"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 245857
+    },
+    "population": 17521167,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Guinea-Bissau"
+    },
+    "codes": {
+      "alpha_3": "GNB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 11.85,
+          "lng": -15.58
+        },
+        "name": "Bissau"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 36125
+    },
+    "population": 1890252,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Guyana"
+    },
+    "codes": {
+      "alpha_3": "GUY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.8,
+          "lng": -58.15
+        },
+        "name": "Georgetown"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 214969
+    },
+    "population": 956044,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792354394
+    }
+  },
+  {
+    "names": {
+      "common": "Haiti"
+    },
+    "codes": {
+      "alpha_3": "HTI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.53,
+          "lng": -72.33
+        },
+        "name": "Port-au-Prince"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 27750
+    },
+    "population": 11867032,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Heard Island and McDonald Islands"
+    },
+    "codes": {
+      "alpha_3": "HMD"
+    },
+    "capitals": [],
+    "region": "Antarctic",
+    "subregion": "",
+    "area": {
+      "kilometers": 412
+    },
+    "population": 0,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Honduras"
+    },
+    "codes": {
+      "alpha_3": "HND"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 14.1,
+          "lng": -87.22
+        },
+        "name": "Tegucigalpa"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 112492
+    },
+    "population": 10186738,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Hong Kong"
+    },
+    "codes": {
+      "alpha_3": "HKG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 22.267,
+          "lng": 114.188
+        },
+        "name": "City of Victoria"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 1104
+    },
+    "population": 7498100,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Hungary"
+    },
+    "codes": {
+      "alpha_3": "HUN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 47.5,
+          "lng": 19.08
+        },
+        "name": "Budapest"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": {
+      "kilometers": 93028
+    },
+    "population": 9488428,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Iceland"
+    },
+    "codes": {
+      "alpha_3": "ISL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 64.15,
+          "lng": -21.95
+        },
+        "name": "Reykjavik"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 103000
+    },
+    "population": 396500,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "India"
+    },
+    "codes": {
+      "alpha_3": "IND"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 28.6139,
+          "lng": 77.209
+        },
+        "name": "New Delhi"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 3287590
+    },
+    "population": 1429404000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Indonesia"
+    },
+    "codes": {
+      "alpha_3": "IDN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -6.17,
+          "lng": 106.82
+        },
+        "name": "Jakarta"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 1904569
+    },
+    "population": 288315089,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Iran"
+    },
+    "codes": {
+      "alpha_3": "IRN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 35.7,
+          "lng": 51.42
+        },
+        "name": "Tehran"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 1648195
+    },
+    "population": 87134000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788658103
+    }
+  },
+  {
+    "names": {
+      "common": "Iraq"
+    },
+    "codes": {
+      "alpha_3": "IRQ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 33.33,
+          "lng": 44.4
+        },
+        "name": "Baghdad"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 438317
+    },
+    "population": 46118793,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791292128
+    }
+  },
+  {
+    "names": {
+      "common": "Ireland"
+    },
+    "codes": {
+      "alpha_3": "IRL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 53.32,
+          "lng": -6.23
+        },
+        "name": "Dublin"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 70273
+    },
+    "population": 5525600,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Isle of Man"
+    },
+    "codes": {
+      "alpha_3": "IMN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 54.15,
+          "lng": -4.48
+        },
+        "name": "Douglas"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 572
+    },
+    "population": 84523,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792366930
+    }
+  },
+  {
+    "names": {
+      "common": "Israel"
+    },
+    "codes": {
+      "alpha_3": "ISR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 31.77,
+          "lng": 35.23
+        },
+        "name": "Jerusalem"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 20770
+    },
+    "population": 10305000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789011256
+    }
+  },
+  {
+    "names": {
+      "common": "Italy"
+    },
+    "codes": {
+      "alpha_3": "ITA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 41.9,
+          "lng": 12.48
+        },
+        "name": "Rome"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 301336
+    },
+    "population": 58943673,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789226159
+    }
+  },
+  {
+    "names": {
+      "common": "Ivory Coast"
+    },
+    "codes": {
+      "alpha_3": "CIV"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.82,
+          "lng": -5.27
+        },
+        "name": "Yamoussoukro"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 322463
+    },
+    "population": 33293101,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790171624
+    }
+  },
+  {
+    "names": {
+      "common": "Jamaica"
+    },
+    "codes": {
+      "alpha_3": "JAM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 17.99702,
+          "lng": -76.79358
+        },
+        "name": "Kingston"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 10991
+    },
+    "population": 2774538,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Japan"
+    },
+    "codes": {
+      "alpha_3": "JPN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 35.68,
+          "lng": 139.75
+        },
+        "name": "Tokyo"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 377930
+    },
+    "population": 122650000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790417366
+    }
+  },
+  {
+    "names": {
+      "common": "Jersey"
+    },
+    "codes": {
+      "alpha_3": "JEY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 49.18,
+          "lng": -2.1
+        },
+        "name": "Saint Helier"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 116
+    },
+    "population": 104540,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Jordan"
+    },
+    "codes": {
+      "alpha_3": "JOR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 31.95,
+          "lng": 35.93
+        },
+        "name": "Amman"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 89342
+    },
+    "population": 11937000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Kazakhstan"
+    },
+    "codes": {
+      "alpha_3": "KAZ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 51.16,
+          "lng": 71.45
+        },
+        "name": "Astana"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": {
+      "kilometers": 2724900
+    },
+    "population": 20618796,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791021630
+    }
+  },
+  {
+    "names": {
+      "common": "Kenya"
+    },
+    "codes": {
+      "alpha_3": "KEN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -1.28,
+          "lng": 36.82
+        },
+        "name": "Nairobi"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 580367
+    },
+    "population": 54227015,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791328710
+    }
+  },
+  {
+    "names": {
+      "common": "Kiribati"
+    },
+    "codes": {
+      "alpha_3": "KIR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 1.33,
+          "lng": 172.98
+        },
+        "name": "South Tarawa"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 811
+    },
+    "population": 120740,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557518
+    }
+  },
+  {
+    "names": {
+      "common": "Kosovo"
+    },
+    "codes": {
+      "alpha_3": "UNK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42.67,
+          "lng": 21.17
+        },
+        "name": "Pristina"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 10908
+    },
+    "population": 1582322,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792498329
+    }
+  },
+  {
+    "names": {
+      "common": "Kuwait"
+    },
+    "codes": {
+      "alpha_3": "KWT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 29.37,
+          "lng": 47.97
+        },
+        "name": "Kuwait City"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 17818
+    },
+    "population": 4881254,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Kyrgyzstan"
+    },
+    "codes": {
+      "alpha_3": "KGZ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42.87,
+          "lng": 74.6
+        },
+        "name": "Bishkek"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": {
+      "kilometers": 199951
+    },
+    "population": 7404300,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792405003
+    }
+  },
+  {
+    "names": {
+      "common": "Laos"
+    },
+    "codes": {
+      "alpha_3": "LAO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 17.97,
+          "lng": 102.6
+        },
+        "name": "Vientiane"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 236800
+    },
+    "population": 7745000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792537093
+    }
+  },
+  {
+    "names": {
+      "common": "Latvia"
+    },
+    "codes": {
+      "alpha_3": "LVA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 56.95,
+          "lng": 24.1
+        },
+        "name": "Riga"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 64559
+    },
+    "population": 1832100,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Lebanon"
+    },
+    "codes": {
+      "alpha_3": "LBN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 33.87,
+          "lng": 35.5
+        },
+        "name": "Beirut"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 10452
+    },
+    "population": 5895466,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Lesotho"
+    },
+    "codes": {
+      "alpha_3": "LSO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -29.32,
+          "lng": 27.48
+        },
+        "name": "Maseru"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": {
+      "kilometers": 30355
+    },
+    "population": 2116427,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Liberia"
+    },
+    "codes": {
+      "alpha_3": "LBR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.3156,
+          "lng": -10.8074
+        },
+        "name": "Monrovia"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 111369
+    },
+    "population": 5248621,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Libya"
+    },
+    "codes": {
+      "alpha_3": "LBY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 32.88,
+          "lng": 13.17
+        },
+        "name": "Tripoli"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 1759540
+    },
+    "population": 7539852,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792375573
+    }
+  },
+  {
+    "names": {
+      "common": "Liechtenstein"
+    },
+    "codes": {
+      "alpha_3": "LIE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 47.13,
+          "lng": 9.52
+        },
+        "name": "Vaduz"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 160
+    },
+    "population": 41228,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792404977
+    }
+  },
+  {
+    "names": {
+      "common": "Lithuania"
+    },
+    "codes": {
+      "alpha_3": "LTU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 54.68,
+          "lng": 25.32
+        },
+        "name": "Vilnius"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 65300
+    },
+    "population": 2887761,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792405059
+    }
+  },
+  {
+    "names": {
+      "common": "Luxembourg"
+    },
+    "codes": {
+      "alpha_3": "LUX"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 49.6,
+          "lng": 6.12
+        },
+        "name": "Luxembourg"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 2586
+    },
+    "population": 690959,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788773661
+    }
+  },
+  {
+    "names": {
+      "common": "Macau"
+    },
+    "codes": {
+      "alpha_3": "MAC"
+    },
+    "capitals": [],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 30
+    },
+    "population": 686500,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790553368
+    }
+  },
+  {
+    "names": {
+      "common": "Madagascar"
+    },
+    "codes": {
+      "alpha_3": "MDG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -18.92,
+          "lng": 47.52
+        },
+        "name": "Antananarivo"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 587041
+    },
+    "population": 32658977,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Malawi"
+    },
+    "codes": {
+      "alpha_3": "MWI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -13.97,
+          "lng": 33.78
+        },
+        "name": "Lilongwe"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 118484
+    },
+    "population": 21201635,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Malaysia"
+    },
+    "codes": {
+      "alpha_3": "MYS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 3.17,
+          "lng": 101.7
+        },
+        "name": "Kuala Lumpur"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 330803
+    },
+    "population": 34389400,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Maldives"
+    },
+    "codes": {
+      "alpha_3": "MDV"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 4.17,
+          "lng": 73.51
+        },
+        "name": "Malé"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 300
+    },
+    "population": 515132,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Mali"
+    },
+    "codes": {
+      "alpha_3": "MLI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.65,
+          "lng": -8
+        },
+        "name": "Bamako"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 1240192
+    },
+    "population": 23929000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Malta"
+    },
+    "codes": {
+      "alpha_3": "MLT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 35.88,
+          "lng": 14.5
+        },
+        "name": "Valletta"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 316
+    },
+    "population": 588254,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Marshall Islands"
+    },
+    "codes": {
+      "alpha_3": "MHL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 7.1,
+          "lng": 171.38
+        },
+        "name": "Majuro"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 181
+    },
+    "population": 37548,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789975616
+    }
+  },
+  {
+    "names": {
+      "common": "Martinique"
+    },
+    "codes": {
+      "alpha_3": "MTQ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 14.6,
+          "lng": -61.08
+        },
+        "name": "Fort-de-France"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 1128
+    },
+    "population": 378243,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Mauritania"
+    },
+    "codes": {
+      "alpha_3": "MRT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.07,
+          "lng": -15.97
+        },
+        "name": "Nouakchott"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 1030700
+    },
+    "population": 4927532,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Mauritius"
+    },
+    "codes": {
+      "alpha_3": "MUS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -20.15,
+          "lng": 57.48
+        },
+        "name": "Port Louis"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 2040
+    },
+    "population": 1240316,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789835661
+    }
+  },
+  {
+    "names": {
+      "common": "Mayotte"
+    },
+    "codes": {
+      "alpha_3": "MYT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -12.78,
+          "lng": 45.22
+        },
+        "name": "Mamoudzou"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 374
+    },
+    "population": 226915,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Mexico"
+    },
+    "codes": {
+      "alpha_3": "MEX"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 19.43,
+          "lng": -99.13
+        },
+        "name": "Mexico City"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 1964375
+    },
+    "population": 131231919,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789897338
+    }
+  },
+  {
+    "names": {
+      "common": "Micronesia"
+    },
+    "codes": {
+      "alpha_3": "FSM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.92,
+          "lng": 158.15
+        },
+        "name": "Palikir"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 702
+    },
+    "population": 75817,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791021650
+    }
+  },
+  {
+    "names": {
+      "common": "Moldova"
+    },
+    "codes": {
+      "alpha_3": "MDA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 47.01,
+          "lng": 28.9
+        },
+        "name": "Chișinău"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "area": {
+      "kilometers": 33846
+    },
+    "population": 2365600,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Monaco"
+    },
+    "codes": {
+      "alpha_3": "MCO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 43.73,
+          "lng": 7.42
+        },
+        "name": "Monaco"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 2.02
+    },
+    "population": 38857,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Mongolia"
+    },
+    "codes": {
+      "alpha_3": "MNG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 47.92,
+          "lng": 106.91
+        },
+        "name": "Ulan Bator"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 1564110
+    },
+    "population": 3591120,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792405081
+    }
+  },
+  {
+    "names": {
+      "common": "Montenegro"
+    },
+    "codes": {
+      "alpha_3": "MNE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42.43,
+          "lng": 19.27
+        },
+        "name": "Podgorica"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 13812
+    },
+    "population": 622902,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Montserrat"
+    },
+    "codes": {
+      "alpha_3": "MSR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 16.7,
+          "lng": -62.22
+        },
+        "name": "Plymouth"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 102
+    },
+    "population": 4386,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Morocco"
+    },
+    "codes": {
+      "alpha_3": "MAR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 34.02,
+          "lng": -6.82
+        },
+        "name": "Rabat"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 446550
+    },
+    "population": 37254695,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791120037
+    }
+  },
+  {
+    "names": {
+      "common": "Mozambique"
+    },
+    "codes": {
+      "alpha_3": "MOZ"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -25.95,
+          "lng": 32.58
+        },
+        "name": "Maputo"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 801590
+    },
+    "population": 34958973,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Myanmar"
+    },
+    "codes": {
+      "alpha_3": "MMR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 19.76,
+          "lng": 96.07
+        },
+        "name": "Naypyidaw"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 676578
+    },
+    "population": 51375327,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Namibia"
+    },
+    "codes": {
+      "alpha_3": "NAM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -22.57,
+          "lng": 17.08
+        },
+        "name": "Windhoek"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": {
+      "kilometers": 825615
+    },
+    "population": 3022401,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Naoero"
+    },
+    "codes": {
+      "alpha_3": "NRU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -0.55,
+          "lng": 166.92
+        },
+        "name": "Yaren"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 21
+    },
+    "population": 11680,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791812877
+    }
+  },
+  {
+    "names": {
+      "common": "Nepal"
+    },
+    "codes": {
+      "alpha_3": "NPL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 27.72,
+          "lng": 85.32
+        },
+        "name": "Kathmandu"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 147181
+    },
+    "population": 30034040,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792354557
+    }
+  },
+  {
+    "names": {
+      "common": "Netherlands"
+    },
+    "codes": {
+      "alpha_3": "NLD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 52.35,
+          "lng": 4.92
+        },
+        "name": "Amsterdam"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 41850
+    },
+    "population": 18171612,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791021580
+    }
+  },
+  {
+    "names": {
+      "common": "New Caledonia"
+    },
+    "codes": {
+      "alpha_3": "NCL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -22.27,
+          "lng": 166.45
+        },
+        "name": "Nouméa"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": {
+      "kilometers": 18575
+    },
+    "population": 264596,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792205168
+    }
+  },
+  {
+    "names": {
+      "common": "New Zealand"
+    },
+    "codes": {
+      "alpha_3": "NZL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -41.3,
+          "lng": 174.78
+        },
+        "name": "Wellington"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "area": {
+      "kilometers": 270467
+    },
+    "population": 4993923,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Nicaragua"
+    },
+    "codes": {
+      "alpha_3": "NIC"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 12.13,
+          "lng": -86.25
+        },
+        "name": "Managua"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 130373
+    },
+    "population": 6874748,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Niger"
+    },
+    "codes": {
+      "alpha_3": "NER"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.52,
+          "lng": 2.12
+        },
+        "name": "Niamey"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 1267000
+    },
+    "population": 27522750,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Nigeria"
+    },
+    "codes": {
+      "alpha_3": "NGA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 9.08,
+          "lng": 7.53
+        },
+        "name": "Abuja"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 923768
+    },
+    "population": 223800000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Niue"
+    },
+    "codes": {
+      "alpha_3": "NIU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -19.02,
+          "lng": -169.92
+        },
+        "name": "Alofi"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 260
+    },
+    "population": 1681,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Norfolk Island"
+    },
+    "codes": {
+      "alpha_3": "NFK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -29.05,
+          "lng": 167.97
+        },
+        "name": "Kingston"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "area": {
+      "kilometers": 36
+    },
+    "population": 2188,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "North Korea"
+    },
+    "codes": {
+      "alpha_3": "PRK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 39.02,
+          "lng": 125.75
+        },
+        "name": "Pyongyang"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 120538
+    },
+    "population": 25950000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789135500
+    }
+  },
+  {
+    "names": {
+      "common": "North Macedonia"
+    },
+    "codes": {
+      "alpha_3": "MKD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42,
+          "lng": 21.43
+        },
+        "name": "Skopje"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 25713
+    },
+    "population": 1836713,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Northern Cyprus"
+    },
+    "codes": {
+      "alpha_3": ""
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 35.1856,
+          "lng": 33.3823
+        },
+        "name": "North Nicosia"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 3355
+    },
+    "population": 382836,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557519
+    }
+  },
+  {
+    "names": {
+      "common": "Northern Mariana Islands"
+    },
+    "codes": {
+      "alpha_3": "MNP"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 15.2,
+          "lng": 145.75
+        },
+        "name": "Saipan"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 464
+    },
+    "population": 46078,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Norway"
+    },
+    "codes": {
+      "alpha_3": "NOR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 59.92,
+          "lng": 10.75
+        },
+        "name": "Oslo"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 323802
+    },
+    "population": 5636904,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Oman"
+    },
+    "codes": {
+      "alpha_3": "OMN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 23.62,
+          "lng": 58.58
+        },
+        "name": "Muscat"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 309500
+    },
+    "population": 5398645,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Pakistan"
+    },
+    "codes": {
+      "alpha_3": "PAK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 33.68,
+          "lng": 73.05
+        },
+        "name": "Islamabad"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 881912
+    },
+    "population": 241499431,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Palau"
+    },
+    "codes": {
+      "alpha_3": "PLW"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 7.5,
+          "lng": 134.62
+        },
+        "name": "Ngerulmud"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "area": {
+      "kilometers": 459
+    },
+    "population": 16733,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Palestine"
+    },
+    "codes": {
+      "alpha_3": "PSE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": true,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": 31.9038,
+          "lng": 35.2034
+        },
+        "name": "Ramallah"
+      },
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": 31.78,
+          "lng": 35.22
+        },
+        "name": "Jerusalem"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 6220
+    },
+    "population": 5557096,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Panama"
+    },
+    "codes": {
+      "alpha_3": "PAN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 8.97,
+          "lng": -79.53
+        },
+        "name": "Panama City"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": {
+      "kilometers": 75417
+    },
+    "population": 4064780,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Papua New Guinea"
+    },
+    "codes": {
+      "alpha_3": "PNG"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -9.45,
+          "lng": 147.18
+        },
+        "name": "Port Moresby"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": {
+      "kilometers": 462840
+    },
+    "population": 11781559,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Paraguay"
+    },
+    "codes": {
+      "alpha_3": "PRY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -25.28,
+          "lng": -57.57
+        },
+        "name": "Asunción"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 406752
+    },
+    "population": 6109644,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Peru"
+    },
+    "codes": {
+      "alpha_3": "PER"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -12.05,
+          "lng": -77.05
+        },
+        "name": "Lima"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 1285216
+    },
+    "population": 34157732,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791319714
+    }
+  },
+  {
+    "names": {
+      "common": "Philippines"
+    },
+    "codes": {
+      "alpha_3": "PHL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 14.6,
+          "lng": 120.97
+        },
+        "name": "Manila"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 342353
+    },
+    "population": 114849400,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Pitcairn Islands"
+    },
+    "codes": {
+      "alpha_3": "PCN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -25.07,
+          "lng": -130.08
+        },
+        "name": "Adamstown"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 47
+    },
+    "population": 35,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791200053
+    }
+  },
+  {
+    "names": {
+      "common": "Poland"
+    },
+    "codes": {
+      "alpha_3": "POL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 52.25,
+          "lng": 21
+        },
+        "name": "Warsaw"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": {
+      "kilometers": 312679
+    },
+    "population": 37232000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790233840
+    }
+  },
+  {
+    "names": {
+      "common": "Portugal"
+    },
+    "codes": {
+      "alpha_3": "PRT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 38.72,
+          "lng": -9.13
+        },
+        "name": "Lisbon"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 92090
+    },
+    "population": 11424031,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Puerto Rico"
+    },
+    "codes": {
+      "alpha_3": "PRI"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.47,
+          "lng": -66.12
+        },
+        "name": "San Juan"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 8870
+    },
+    "population": 3184195,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Qatar"
+    },
+    "codes": {
+      "alpha_3": "QAT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 25.28,
+          "lng": 51.53
+        },
+        "name": "Doha"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 11586
+    },
+    "population": 3370611,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792404977
+    }
+  },
+  {
+    "names": {
+      "common": "Romania"
+    },
+    "codes": {
+      "alpha_3": "ROU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 44.43,
+          "lng": 26.1
+        },
+        "name": "Bucharest"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 238391
+    },
+    "population": 19041322,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Russia"
+    },
+    "codes": {
+      "alpha_3": "RUS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 55.75,
+          "lng": 37.6
+        },
+        "name": "Moscow"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "area": {
+      "kilometers": 17098242
+    },
+    "population": 146028325,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Rwanda"
+    },
+    "codes": {
+      "alpha_3": "RWA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -1.95,
+          "lng": 30.05
+        },
+        "name": "Kigali"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 26338
+    },
+    "population": 14418145,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Réunion"
+    },
+    "codes": {
+      "alpha_3": "REU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -20.88,
+          "lng": 55.45
+        },
+        "name": "Saint-Denis"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 2511
+    },
+    "population": 840974,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Barthélemy"
+    },
+    "codes": {
+      "alpha_3": "BLM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 17.88,
+          "lng": -62.85
+        },
+        "name": "Gustavia"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 21
+    },
+    "population": 4255,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "codes": {
+      "alpha_3": "SHN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -15.93,
+          "lng": -5.72
+        },
+        "name": "Jamestown"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 394
+    },
+    "population": 53192,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Kitts and Nevis"
+    },
+    "codes": {
+      "alpha_3": "KNA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 17.3,
+          "lng": -62.72
+        },
+        "name": "Basseterre"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 261
+    },
+    "population": 54338,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Lucia"
+    },
+    "codes": {
+      "alpha_3": "LCA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.9957,
+          "lng": -61.0061
+        },
+        "name": "Castries"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 616
+    },
+    "population": 184100,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Martin"
+    },
+    "codes": {
+      "alpha_3": "MAF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.07,
+          "lng": -63.08
+        },
+        "name": "Marigot"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 53
+    },
+    "population": 38659,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Pierre and Miquelon"
+    },
+    "codes": {
+      "alpha_3": "SPM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 46.77,
+          "lng": -56.18
+        },
+        "name": "Saint-Pierre"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 242
+    },
+    "population": 5819,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "Saint Vincent and the Grenadines"
+    },
+    "codes": {
+      "alpha_3": "VCT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.13,
+          "lng": -61.22
+        },
+        "name": "Kingstown"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 389
+    },
+    "population": 109296,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Samoa"
+    },
+    "codes": {
+      "alpha_3": "WSM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -13.82,
+          "lng": -171.77
+        },
+        "name": "Apia"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 2842
+    },
+    "population": 205557,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "San Marino"
+    },
+    "codes": {
+      "alpha_3": "SMR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 43.94,
+          "lng": 12.45
+        },
+        "name": "City of San Marino"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 61
+    },
+    "population": 34172,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Saudi Arabia"
+    },
+    "codes": {
+      "alpha_3": "SAU"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 24.65,
+          "lng": 46.7
+        },
+        "name": "Riyadh"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 2149690
+    },
+    "population": 35325004,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791318264
+    }
+  },
+  {
+    "names": {
+      "common": "Senegal"
+    },
+    "codes": {
+      "alpha_3": "SEN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 14.73,
+          "lng": -17.63
+        },
+        "name": "Dakar"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 196722
+    },
+    "population": 19575061,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Serbia"
+    },
+    "codes": {
+      "alpha_3": "SRB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 44.83,
+          "lng": 20.5
+        },
+        "name": "Belgrade"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": {
+      "kilometers": 88361
+    },
+    "population": 6532019,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792405184
+    }
+  },
+  {
+    "names": {
+      "common": "Seychelles"
+    },
+    "codes": {
+      "alpha_3": "SYC"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -4.62,
+          "lng": 55.45
+        },
+        "name": "Victoria"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 452
+    },
+    "population": 123565,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789226148
+    }
+  },
+  {
+    "names": {
+      "common": "Sierra Leone"
+    },
+    "codes": {
+      "alpha_3": "SLE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 8.48,
+          "lng": -13.23
+        },
+        "name": "Freetown"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 71740
+    },
+    "population": 8460512,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789844614
+    }
+  },
+  {
+    "names": {
+      "common": "Singapore"
+    },
+    "codes": {
+      "alpha_3": "SGP"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 1.28,
+          "lng": 103.85
+        },
+        "name": "Singapore"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 710
+    },
+    "population": 6208500,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790538279
+    }
+  },
+  {
+    "names": {
+      "common": "Sint Maarten"
+    },
+    "codes": {
+      "alpha_3": "SXM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.02,
+          "lng": -63.03
+        },
+        "name": "Philipsburg"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 34
+    },
+    "population": 58477,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Slovakia"
+    },
+    "codes": {
+      "alpha_3": "SVK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 48.15,
+          "lng": 17.12
+        },
+        "name": "Bratislava"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": {
+      "kilometers": 49037
+    },
+    "population": 5403009,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Slovenia"
+    },
+    "codes": {
+      "alpha_3": "SVN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 46.05,
+          "lng": 14.52
+        },
+        "name": "Ljubljana"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": {
+      "kilometers": 20273
+    },
+    "population": 2136385,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Solomon Islands"
+    },
+    "codes": {
+      "alpha_3": "SLB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -9.43,
+          "lng": 159.95
+        },
+        "name": "Honiara"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": {
+      "kilometers": 28896
+    },
+    "population": 828857,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Somalia"
+    },
+    "codes": {
+      "alpha_3": "SOM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 2.07,
+          "lng": 45.33
+        },
+        "name": "Mogadishu"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 637657
+    },
+    "population": 20305907,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "Somaliland"
+    },
+    "codes": {
+      "alpha_3": ""
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 9.5605,
+          "lng": 44.065
+        },
+        "name": "Hargeisa"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 137600
+    },
+    "population": 4914100,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "South Africa"
+    },
+    "codes": {
+      "alpha_3": "ZAF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": true,
+          "judicial": false,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -25.74,
+          "lng": 28.19
+        },
+        "name": "Pretoria"
+      },
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": true,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -33.92,
+          "lng": 18.42
+        },
+        "name": "Cape Town"
+      },
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": true,
+          "legislative": false,
+          "primary": false
+        },
+        "coordinates": {
+          "lat": -29.12,
+          "lng": 26.21
+        },
+        "name": "Bloemfontein"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": {
+      "kilometers": 1221037
+    },
+    "population": 63015904,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557520
+    }
+  },
+  {
+    "names": {
+      "common": "South Georgia"
+    },
+    "codes": {
+      "alpha_3": "SGS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -54.28,
+          "lng": -36.5
+        },
+        "name": "King Edward Point"
+      }
+    ],
+    "region": "Antarctic",
+    "subregion": "",
+    "area": {
+      "kilometers": 3903
+    },
+    "population": 32,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724018
+    }
+  },
+  {
+    "names": {
+      "common": "South Korea"
+    },
+    "codes": {
+      "alpha_3": "KOR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 37.55,
+          "lng": 126.98
+        },
+        "name": "Seoul"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 100210
+    },
+    "population": 51106229,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788829229
+    }
+  },
+  {
+    "names": {
+      "common": "South Ossetia"
+    },
+    "codes": {
+      "alpha_3": ""
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 42.227,
+          "lng": 43.9712
+        },
+        "name": "Tskhinvali"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 3900
+    },
+    "population": 56520,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791048012
+    }
+  },
+  {
+    "names": {
+      "common": "South Sudan"
+    },
+    "codes": {
+      "alpha_3": "SSD"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 4.85,
+          "lng": 31.62
+        },
+        "name": "Juba"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 619745
+    },
+    "population": 12703714,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791889738
+    }
+  },
+  {
+    "names": {
+      "common": "Spain"
+    },
+    "codes": {
+      "alpha_3": "ESP"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 40.4,
+          "lng": -3.68
+        },
+        "name": "Madrid"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 505992
+    },
+    "population": 49801559,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Sri Lanka"
+    },
+    "codes": {
+      "alpha_3": "LKA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.89,
+          "lng": 79.9
+        },
+        "name": "Sri Jayawardenepura Kotte"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "area": {
+      "kilometers": 65610
+    },
+    "population": 21756000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Sudan"
+    },
+    "codes": {
+      "alpha_3": "SDN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 15.6,
+          "lng": 32.53
+        },
+        "name": "Khartoum"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 1886068
+    },
+    "population": 53282719,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Suriname"
+    },
+    "codes": {
+      "alpha_3": "SUR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 5.83,
+          "lng": -55.17
+        },
+        "name": "Paramaribo"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 163820
+    },
+    "population": 616500,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Svalbard and Jan Mayen"
+    },
+    "codes": {
+      "alpha_3": "SJM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 78.22,
+          "lng": 15.63
+        },
+        "name": "Longyearbyen"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 61399
+    },
+    "population": 2562,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Sweden"
+    },
+    "codes": {
+      "alpha_3": "SWE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 59.33,
+          "lng": 18.05
+        },
+        "name": "Stockholm"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 450295
+    },
+    "population": 10621103,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791495319
+    }
+  },
+  {
+    "names": {
+      "common": "Switzerland"
+    },
+    "codes": {
+      "alpha_3": "CHE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 46.92,
+          "lng": 7.47
+        },
+        "name": "Bern"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": {
+      "kilometers": 41284
+    },
+    "population": 9154896,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791320117
+    }
+  },
+  {
+    "names": {
+      "common": "Syria"
+    },
+    "codes": {
+      "alpha_3": "SYR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 33.5138,
+          "lng": 36.2765
+        },
+        "name": "Damascus"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 185180
+    },
+    "population": 26472497,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "São Tomé and Príncipe"
+    },
+    "codes": {
+      "alpha_3": "STP"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 0.34,
+          "lng": 6.73
+        },
+        "name": "São Tomé"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": {
+      "kilometers": 964
+    },
+    "population": 220372,
+    "_meta": {
+      "lastUpdatedTimestamp": 1789897103
+    }
+  },
+  {
+    "names": {
+      "common": "Taiwan"
+    },
+    "codes": {
+      "alpha_3": "TWN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 25.03,
+          "lng": 121.52
+        },
+        "name": "Taipei"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "area": {
+      "kilometers": 36193
+    },
+    "population": 23224721,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790592270
+    }
+  },
+  {
+    "names": {
+      "common": "Tajikistan"
+    },
+    "codes": {
+      "alpha_3": "TJK"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 38.55,
+          "lng": 68.77
+        },
+        "name": "Dushanbe"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": {
+      "kilometers": 143100
+    },
+    "population": 10721000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790674559
+    }
+  },
+  {
+    "names": {
+      "common": "Tanzania"
+    },
+    "codes": {
+      "alpha_3": "TZA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -6.16,
+          "lng": 35.75
+        },
+        "name": "Dodoma"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 945087
+    },
+    "population": 70038850,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788976264
+    }
+  },
+  {
+    "names": {
+      "common": "Thailand"
+    },
+    "codes": {
+      "alpha_3": "THA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 13.75,
+          "lng": 100.52
+        },
+        "name": "Bangkok"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 513120
+    },
+    "population": 70250751,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Timor-Leste"
+    },
+    "codes": {
+      "alpha_3": "TLS"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -8.58,
+          "lng": 125.6
+        },
+        "name": "Dili"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 14874
+    },
+    "population": 1409452,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Togo"
+    },
+    "codes": {
+      "alpha_3": "TGO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 6.14,
+          "lng": 1.21
+        },
+        "name": "Lomé"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": {
+      "kilometers": 56785
+    },
+    "population": 8095498,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Tokelau"
+    },
+    "codes": {
+      "alpha_3": "TKL"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -9.38,
+          "lng": -171.22
+        },
+        "name": "Fakaofo"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 12
+    },
+    "population": 1411,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792234621
+    }
+  },
+  {
+    "names": {
+      "common": "Tonga"
+    },
+    "codes": {
+      "alpha_3": "TON"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -21.13,
+          "lng": -175.2
+        },
+        "name": "Nuku'alofa"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 747
+    },
+    "population": 100179,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791320010
+    }
+  },
+  {
+    "names": {
+      "common": "Trinidad and Tobago"
+    },
+    "codes": {
+      "alpha_3": "TTO"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 10.65,
+          "lng": -61.52
+        },
+        "name": "Port of Spain"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 5130
+    },
+    "population": 1512779,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Tunisia"
+    },
+    "codes": {
+      "alpha_3": "TUN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 36.8,
+          "lng": 10.18
+        },
+        "name": "Tunis"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 163610
+    },
+    "population": 11992843,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Turkey"
+    },
+    "codes": {
+      "alpha_3": "TUR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 39.93,
+          "lng": 32.87
+        },
+        "name": "Ankara"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 783562
+    },
+    "population": 86092168,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Turkmenistan"
+    },
+    "codes": {
+      "alpha_3": "TKM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 37.95,
+          "lng": 58.38
+        },
+        "name": "Ashgabat"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": {
+      "kilometers": 488100
+    },
+    "population": 7057841,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "Turks and Caicos Islands"
+    },
+    "codes": {
+      "alpha_3": "TCA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 21.46,
+          "lng": -71.14
+        },
+        "name": "Cockburn Town"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 948
+    },
+    "population": 50828,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Tuvalu"
+    },
+    "codes": {
+      "alpha_3": "TUV"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -8.52,
+          "lng": 179.22
+        },
+        "name": "Funafuti"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 26
+    },
+    "population": 10643,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791047815
+    }
+  },
+  {
+    "names": {
+      "common": "Uganda"
+    },
+    "codes": {
+      "alpha_3": "UGA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 0.32,
+          "lng": 32.55
+        },
+        "name": "Kampala"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 241550
+    },
+    "population": 45905417,
+    "_meta": {
+      "lastUpdatedTimestamp": 1792328219
+    }
+  },
+  {
+    "names": {
+      "common": "Ukraine"
+    },
+    "codes": {
+      "alpha_3": "UKR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 50.43,
+          "lng": 30.52
+        },
+        "name": "Kyiv"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "area": {
+      "kilometers": 603500
+    },
+    "population": 28700000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "United Arab Emirates"
+    },
+    "codes": {
+      "alpha_3": "ARE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 24.47,
+          "lng": 54.37
+        },
+        "name": "Abu Dhabi"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 83600
+    },
+    "population": 11027129,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791376300
+    }
+  },
+  {
+    "names": {
+      "common": "United Kingdom"
+    },
+    "codes": {
+      "alpha_3": "GBR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 51.5,
+          "lng": -0.08
+        },
+        "name": "London"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 242900
+    },
+    "population": 66912637,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "United States"
+    },
+    "codes": {
+      "alpha_3": "USA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 38.89,
+          "lng": -77.05
+        },
+        "name": "Washington, D.C."
+      }
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 9372610
+    },
+    "population": 341784857,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557521
+    }
+  },
+  {
+    "names": {
+      "common": "United States Minor Outlying Islands"
+    },
+    "codes": {
+      "alpha_3": "UMI"
+    },
+    "capitals": [],
+    "region": "Americas",
+    "subregion": "North America",
+    "area": {
+      "kilometers": 34.2
+    },
+    "population": 300,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "United States Virgin Islands"
+    },
+    "codes": {
+      "alpha_3": "VIR"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 18.35,
+          "lng": -64.93
+        },
+        "name": "Charlotte Amalie"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": {
+      "kilometers": 347
+    },
+    "population": 87146,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Uruguay"
+    },
+    "codes": {
+      "alpha_3": "URY"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -34.85,
+          "lng": -56.17
+        },
+        "name": "Montevideo"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 181034
+    },
+    "population": 3480601,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557522
+    }
+  },
+  {
+    "names": {
+      "common": "Uzbekistan"
+    },
+    "codes": {
+      "alpha_3": "UZB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 41.32,
+          "lng": 69.25
+        },
+        "name": "Tashkent"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": {
+      "kilometers": 447400
+    },
+    "population": 39047321,
+    "_meta": {
+      "lastUpdatedTimestamp": 1790063335
+    }
+  },
+  {
+    "names": {
+      "common": "Vanuatu"
+    },
+    "codes": {
+      "alpha_3": "VUT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -17.73,
+          "lng": 168.32
+        },
+        "name": "Port Vila"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": {
+      "kilometers": 12189
+    },
+    "population": 321409,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557522
+    }
+  },
+  {
+    "names": {
+      "common": "Vatican City"
+    },
+    "codes": {
+      "alpha_3": "VAT"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 41.9,
+          "lng": 12.45
+        },
+        "name": "Vatican City"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": {
+      "kilometers": 0.44
+    },
+    "population": 882,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557522
+    }
+  },
+  {
+    "names": {
+      "common": "Venezuela"
+    },
+    "codes": {
+      "alpha_3": "VEN"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 10.48,
+          "lng": -66.87
+        },
+        "name": "Caracas"
+      }
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "area": {
+      "kilometers": 916445
+    },
+    "population": 28633711,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791841972
+    }
+  },
+  {
+    "names": {
+      "common": "Vietnam"
+    },
+    "codes": {
+      "alpha_3": "VNM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 21.03,
+          "lng": 105.85
+        },
+        "name": "Hanoi"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": {
+      "kilometers": 331212
+    },
+    "population": 102300000,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557522
+    }
+  },
+  {
+    "names": {
+      "common": "Wallis and Futuna"
+    },
+    "codes": {
+      "alpha_3": "WLF"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -13.95,
+          "lng": -171.93
+        },
+        "name": "Mata-Utu"
+      }
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "area": {
+      "kilometers": 142
+    },
+    "population": 11151,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724019
+    }
+  },
+  {
+    "names": {
+      "common": "Western Sahara"
+    },
+    "codes": {
+      "alpha_3": "ESH"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 27.1253,
+          "lng": -13.1625
+        },
+        "name": "El Aaiún"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": {
+      "kilometers": 266000
+    },
+    "population": 510713,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  },
+  {
+    "names": {
+      "common": "Yemen"
+    },
+    "codes": {
+      "alpha_3": "YEM"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 15.37,
+          "lng": 44.19
+        },
+        "name": "Sana'a"
+      }
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": {
+      "kilometers": 527968
+    },
+    "population": 32684503,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557522
+    }
+  },
+  {
+    "names": {
+      "common": "Zambia"
+    },
+    "codes": {
+      "alpha_3": "ZMB"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -15.42,
+          "lng": 28.28
+        },
+        "name": "Lusaka"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": {
+      "kilometers": 752612
+    },
+    "population": 23003214,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788557522
+    }
+  },
+  {
+    "names": {
+      "common": "Zimbabwe"
+    },
+    "codes": {
+      "alpha_3": "ZWE"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": -17.82,
+          "lng": 31.03
+        },
+        "name": "Harare"
+      }
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": {
+      "kilometers": 390757
+    },
+    "population": 16175966,
+    "_meta": {
+      "lastUpdatedTimestamp": 1791073728
+    }
+  },
+  {
+    "names": {
+      "common": "Åland Islands"
+    },
+    "codes": {
+      "alpha_3": "ALA"
+    },
+    "capitals": [
+      {
+        "attributes": {
+          "administrative": false,
+          "constitutional": false,
+          "executive": false,
+          "judicial": false,
+          "legislative": false,
+          "primary": true
+        },
+        "coordinates": {
+          "lat": 60.12,
+          "lng": 19.9
+        },
+        "name": "Mariehamn"
+      }
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": {
+      "kilometers": 1580
+    },
+    "population": 30654,
+    "_meta": {
+      "lastUpdatedTimestamp": 1788724017
+    }
+  }
+]

@@ -1,0 +1,4 @@
+requests
+pandas
+pydantic>=2
+matplotlib

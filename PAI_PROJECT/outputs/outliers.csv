@@ -1,0 +1,46 @@
+name,region,population,area,population_outlier,area_outlier
+Algeria,Africa,47400000,2381741.0,False,True
+Angola,Africa,38778554,1246700.0,False,True
+Antarctica,Antarctic,1300,14000000.0,False,True
+Argentina,Americas,46466688,2780400.0,False,True
+Australia,Oceania,27921150,7692024.0,False,True
+Bangladesh,Asia,169828911,147570.0,True,False
+Bolivia,Americas,11365333,1098581.0,False,True
+Brazil,Americas,214211951,8515767.0,True,True
+Canada,Americas,41798407,9984670.0,False,True
+Chad,Africa,20031602,1284000.0,False,True
+China,Asia,1404890000,9706961.0,True,True
+Colombia,Americas,53399171,1141748.0,True,True
+DRC,Africa,116452000,2344858.0,True,True
+Egypt,Africa,108613296,1002450.0,True,True
+Ethiopia,Africa,111652998,1104300.0,True,True
+France,Europe,69081996,551695.0,True,False
+Germany,Europe,83298787,357114.0,True,False
+Greenland,Americas,56945,2166086.0,False,True
+India,Asia,1429404000,3287590.0,True,True
+Indonesia,Asia,288315089,1904569.0,True,True
+Iran,Asia,87134000,1648195.0,True,True
+Italy,Europe,58943673,301336.0,True,False
+Japan,Asia,122650000,377930.0,True,False
+Kazakhstan,Asia,20618796,2724900.0,False,True
+Kenya,Africa,54227015,580367.0,True,False
+Libya,Africa,7539852,1759540.0,False,True
+Mali,Africa,23929000,1240192.0,False,True
+Mauritania,Africa,4927532,1030700.0,False,True
+Mexico,Americas,131231919,1964375.0,True,True
+Mongolia,Asia,3591120,1564110.0,False,True
+Niger,Africa,27522750,1267000.0,False,True
+Nigeria,Africa,223800000,923768.0,True,False
+Pakistan,Asia,241499431,881912.0,True,False
+Peru,Americas,34157732,1285216.0,False,True
+Philippines,Asia,114849400,342353.0,True,False
+Russia,Europe,146028325,17098242.0,True,True
+Saudi Arabia,Asia,35325004,2149690.0,False,True
+South Africa,Africa,63015904,1221037.0,True,True
+Sudan,Africa,53282719,1886068.0,True,True
+Tanzania,Africa,70038850,945087.0,True,False
+Thailand,Asia,70250751,513120.0,True,False
+Turkey,Asia,86092168,783562.0,True,False
+United Kingdom,Europe,66912637,242900.0,True,False
+United States,Americas,341784857,9372610.0,True,True
+Vietnam,Asia,102300000,331212.0,True,False
